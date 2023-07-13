@@ -7,6 +7,21 @@ Python Zksync Scan API
 pip3 install git+https://github.com/bxdoan/py-zkscan-api.git
 ```
 
+## Usage
+<details>
+  <summary>📚 Click to see some basic examples</summary>
+
+Get block info
+
+```python3
+from py_zkscan_api import Explorers
+
+info = Explorers().get_last_block()
+print(info)
+```
+
+</details>
+
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bxdoan)
