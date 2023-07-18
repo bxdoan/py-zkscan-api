@@ -1,3 +1,5 @@
+![](./imgs/zkSync.jpeg)
+
 # py-zkscan-api
 Python Zksync Scan API
 A Python wrapper for the zksync scan api to fetch data and metadata from the zksync blockchain
